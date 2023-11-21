@@ -1,0 +1,13 @@
+{
+  "change-language": "Cambiar idioma",
+  "welcome": "Bienvenido a mi aplicación",
+  "formik_title": "Ir al formulario Formik",
+  "graph_btn": "Ir a países de GraphQL",
+  "secure": "Almacenamiento seguro",
+  "env_btn": "Mostrar archivos ENV",
+  "fast_btn": "Imágenes rápidas de RN",
+  "lang_btn": "Cambiar idioma",
+  "welcome_title": "Bienvenido",
+  "login_btn": "Iniciar sesión",
+  "graph_title": "Países GraphQL"
+}

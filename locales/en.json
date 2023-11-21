@@ -1,0 +1,13 @@
+{
+  "change-language": "Change language",
+  "welcome": "Welcome to my app",
+  "formik_title": "Go to Formik Form",
+  "graph_btn": "Go to GraphQL Countries",
+  "secure": "Secure Storage",
+  "env_btn": "Show ENV files",
+  "fast_btn": "RN Fast Images",
+  "lang_btn": "Change Language",
+  "welcome_title": "Welcome",
+  "login_btn": "Login",
+  "graph_title": "GraphQL Countries"
+}
